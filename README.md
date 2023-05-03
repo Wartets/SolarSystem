@@ -31,25 +31,25 @@ The Boolean "Display the ecliptic plane", allows to display the ecliptic plane f
 
 >The unit of measurement of distance in AU (astronomical unit).
 The date defined in the project is an informative data on the evolution of the stars in relation to each other and does not follow the real model. That is to say, a star will have a certain position at a certain date in the project and that in reality this star did not necessarily have this position at the same date in the real world. Unless the boolean "Real time" is activated.
-Project created with the classic version of GeoGebra 5. I advise to use this version of the software, because many bugs could be present in another version of GeoGebra
+Project created with the classic version of GeoGebra 5. I advise to use this version of the software, because many bugs could be present in another version of GeoGebra.
 In case of a problem on the system, click on the reload icon at the top right of the screen with two arrows to reload the activity.
 It is not recommended to keep the display of orbits disabled when changing views or moving on the graph, as this may slow down the application/project.
 
 ### Lists of the stars included in the project
 Sun :
 
-- Mercure (Soleil I)
+- Mercury (Sun I)
 
-- Venus (Soleil II)
+- Venus (Sun II)
 
-- Earth (Soleil III) :
+- Earth (Sun III) :
   - Moon (Terre I)
 
-- Mars (Soleil IV) :
+- Mars (Sun IV) :
   - Phobos (Mars I)
   - Déimos (Mars II)
 
-- Jupiter (Soleil V) :
+- Jupiter (Sun V) :
    - Io (Jupiter I)
    - Europe (Jupiter II)
    - Ganymede (Jupiter III)
@@ -59,24 +59,24 @@ Sun :
    - Adrastee (Jupiter XV)
    - Thebe (Jupiter XIV)
 
-- Saturn (Soleil VI) :
-   - Mimas (Saturne I)
-   - Encelade (Saturne II)
-   - Tethys (Saturne III)
-   - Dione (Saturne IV)
-   - Rhia (Saturne V)
-   - Titan (Saturne VI)
-   - Japet (Saturne VII)
+- Saturn (Sun VI) :
+   - Mimas (Saturn I)
+   - Encelade (Saturn II)
+   - Tethys (Saturn III)
+   - Dione (Saturn IV)
+   - Rhia (Saturn V)
+   - Titan (Saturn VI)
+   - Japet (Saturn VII)
 
-- Uranus (Soleil VII) :
+- Uranus (Sun VII) :
    - Ariel (Uranus I)
    - Umbriel (Uranus II)
    - Titania (Uranus III)
-   - Obéron (Uranus IV)
+   - Oberon (Uranus IV)
    - Miranda (Uranus V)
    - Cordelia (Uranus VI)
 
-- Neptune (Soleil VIII) :
+- Neptune (Sun VIII) :
    - Triton (Neptune I)
    - Nereide (Neptune II)
    - Naiade (Neptune III)
@@ -96,6 +96,10 @@ Sun :
 >[Helio](https://www.helio-vo.eu/), Heliophysics Integrated Observatory.
 >
 >[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/), Jet Propulsion Laboratory – California Institute of Technology.
+
+
+### Project under license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0).
+
 
 
 
