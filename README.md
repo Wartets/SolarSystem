@@ -1,17 +1,17 @@
 # SolarSystem
 
 
-Informations relatives au projet :
+##Informations relatives au projet :
 
-Réglages de vue :
+###Réglages de vue :
 
-    Pour se déplacer, garder appuyé avec la souris (clic de sélection) et déplacer celle-ci (dans la calculatrice graphique 3D, cela ne fonctionne pas très bien et peut causer de gros problèmes de performances).
-    Pour dé•zoomer, utiliser la roulette de défilement (dans la calculatrice graphique 3D, cela ne fonctionne pas très bien et peut causer de gros problèmes de performances)
-    Pour centrer la vue sur un objet, sélection l'objet dans la liste déroulante, puis cliquer sur le bouton intitulé "centrer".
-    Il est aussi possible de centrer en continu l'objet sélectionné, si la simulation temporelle est "irréelle" et que le booléen "Suivre l'astre" est coché (Il faut noter que le soleil n'étant pas en déplacement dans le système ne peut être suivi).
-    Deux boutons peuvent permettre le dé•zoom rapide, celui avec une loupe contenant un symbole plus permet de zoomer et celui dont la loupe contient un symbole moins permet de dézoomer. (Toolbar Image et Toolbar Image)
+"Pour se déplacer, garder appuyé avec la souris (clic de sélection) et déplacer celle-ci (dans la calculatrice graphique 3D, cela ne fonctionne pas très bien et peut causer de gros problèmes de performances).
+Pour dé•zoomer, utiliser la roulette de défilement (dans la calculatrice graphique 3D, cela ne fonctionne pas très bien et peut causer de gros problèmes de performances)
+Pour centrer la vue sur un objet, sélection l'objet dans la liste déroulante, puis cliquer sur le bouton intitulé "centrer".
+Il est aussi possible de centrer en continu l'objet sélectionné, si la simulation temporelle est "irréelle" et que le booléen "Suivre l'astre" est coché (Il faut noter que le soleil n'étant pas en déplacement dans le système ne peut être suivi).
+Deux boutons peuvent permettre le dé•zoom rapide, celui avec une loupe contenant un symbole plus permet de zoomer et celui dont la loupe contient un symbole moins permet de dézoomer."
 
-Réglages de temps : Il y a deux manières de définir le temps :
+###Réglages de temps : Il y a deux manières de définir le temps :
 
 1) Temps simulé (irréel)
 
@@ -23,12 +23,12 @@ Réglages de temps : Il y a deux manières de définir le temps :
 
     Dans ce type de simulation temporel, la date est récupérée depuis l'heure actuelle de l'ordinateur où le logiciel est en marche, et place automatiquement les objets du système à leur place réelle de l'instant présent. Pour garder à jour le système en permanence, il faut garder activé le booléen "Lancer l'animation".
 
-Visualisation d'astres :
+###Visualisation d'astres :
     
     Le booléen "Afficher les orbites" permet d'afficher ou non toutes les orbites du système.
     Le booléen "Afficher le plan écliptique", permet d'afficher le plan écliptique du point de vue de la Terre qui dans la simulation n'est autre que le plan simple d'équation z=0, un texte s'affiche également et donne la distance de l'objet sélectionné au plan.
 
-Éléments divers
+###Éléments divers
 
     L'unité de mesure de distance en ua (unité astronomique).
     La date définie dans le projet est une donnée informative sur l'évolution des astres les uns en fonction des autres et ne suit pas le modèle réel. C'est-à-dire, qu'un astre aura une certaine position à telle date dans le projet et qu'en réalité cet astre n'a pas eu forcément cette position à la même date dans le monde réel. Sauf si le booléen "Temps réel" est activé.
@@ -36,7 +36,7 @@ Visualisation d'astres :
     En cas de problème sur le système, cliquer sur l'icône de rechargement en haut à droite de l'écran avec deux flèches pour recharger l'activité.
     Il est déconseillé de garder l'affichage des orbites désactivées lors d'un changement de vue ou un déplacement sur le graphique, car ça risque de ralentir le fonctionnement de l'application/projet.
 
-Listes des astres compris dans le projet
+###Listes des astres compris dans le projet
 Soleil :
 
 - Mercure (Soleil I)
@@ -86,7 +86,7 @@ Soleil :
    - Galatée (Neptune VI)
 
 
-Sources
+###Sources
 
     - Small-Body Database Lookup, Jet Propulsion Laboratory – California Institute of Technology.
     - Minor Planet Center, International Astronomical Union.
