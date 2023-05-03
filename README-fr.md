@@ -1,4 +1,4 @@
-# Système Solaire en 3D (Fr)
+# Système Solaire en 3D (Français)
 
 
 ## Informations relatives au projet :
