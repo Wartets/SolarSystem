@@ -25,16 +25,16 @@ Deux boutons peuvent permettre le dé•zoom rapide, celui avec une loupe conten
 
 ### Visualisation d'astres :
     
-    Le booléen "Afficher les orbites" permet d'afficher ou non toutes les orbites du système.
-    Le booléen "Afficher le plan écliptique", permet d'afficher le plan écliptique du point de vue de la Terre qui dans la simulation n'est autre que le plan simple d'équation z=0, un texte s'affiche également et donne la distance de l'objet sélectionné au plan.
+>Le booléen "Afficher les orbites" permet d'afficher ou non toutes les orbites du système.
+Le booléen "Afficher le plan écliptique", permet d'afficher le plan écliptique du point de vue de la Terre qui dans la simulation n'est autre que le plan simple d'équation z=0, un texte s'affiche également et donne la distance de l'objet sélectionné au plan.
 
 ### Éléments divers
 
-    L'unité de mesure de distance en ua (unité astronomique).
-    La date définie dans le projet est une donnée informative sur l'évolution des astres les uns en fonction des autres et ne suit pas le modèle réel. C'est-à-dire, qu'un astre aura une certaine position à telle date dans le projet et qu'en réalité cet astre n'a pas eu forcément cette position à la même date dans le monde réel. Sauf si le booléen "Temps réel" est activé.
-    Projet créé avec la version de GeoGebra 5 classique. Je conseille donc d'utiliser cette version de logiciel, car de nombreux bugs pourraient être présents dans un autre version de GeoGebra
-    En cas de problème sur le système, cliquer sur l'icône de rechargement en haut à droite de l'écran avec deux flèches pour recharger l'activité.
-    Il est déconseillé de garder l'affichage des orbites désactivées lors d'un changement de vue ou un déplacement sur le graphique, car ça risque de ralentir le fonctionnement de l'application/projet.
+>L'unité de mesure de distance en ua (unité astronomique).
+La date définie dans le projet est une donnée informative sur l'évolution des astres les uns en fonction des autres et ne suit pas le modèle réel. C'est-à-dire, qu'un astre aura une certaine position à telle date dans le projet et qu'en réalité cet astre n'a pas eu forcément cette position à la même date dans le monde réel. Sauf si le booléen "Temps réel" est activé.
+Projet créé avec la version de GeoGebra 5 classique. Je conseille donc d'utiliser cette version de logiciel, car de nombreux bugs pourraient être présents dans un autre version de GeoGebra
+En cas de problème sur le système, cliquer sur l'icône de rechargement en haut à droite de l'écran avec deux flèches pour recharger l'activité.
+Il est déconseillé de garder l'affichage des orbites désactivées lors d'un changement de vue ou un déplacement sur le graphique, car ça risque de ralentir le fonctionnement de l'application/projet.
 
 ### Listes des astres compris dans le projet
 Soleil :
@@ -95,7 +95,7 @@ Soleil :
     - Horizons System, Jet Propulsion Laboratory – California Institute of Technology.
 
 
-Je tiens à exprimer mes remerciements à Longjumping_Theme_45 pour les illustrations des astres qu'il a créées et qui m'a permis de les utiliser pour illustrer ce projet. (Je souhaite dans une version future, incruster directement les images sur les astres dans le système)
+>Je tiens à exprimer mes remerciements à Longjumping_Theme_45 pour les illustrations des astres qu'il a créées et qui m'a permis de les utiliser pour illustrer ce projet. (Je souhaite dans une version future, incruster directement les images sur les astres dans le système)
 Si vous rencontrez un bug, qu'il soit majeur ou mineur, commentez-le s'il vous plaît ; je reviens régulièrement sur mes projets pour les améliorer. : )
 
 
