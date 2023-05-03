@@ -88,7 +88,7 @@ Soleil :
 
 ### Sources
 
->[Small-Body Database Lookup](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/), Jet Propulsion Laboratory – California Institute of Technology.\;
+>[Small-Body Database Lookup](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/), Jet Propulsion Laboratory – California Institute of Technology.\\
 [Minor Planet Center](https://minorplanetcenter.net/), International Astronomical Union.
 [Planetary Data System](https://pds.nasa.gov/), National Aeronautics and Space Administration.
 [Helio](https://www.helio-vo.eu/), Heliophysics Integrated Observatory.
