@@ -1,5 +1,7 @@
 # Solar system in 3D
 
+*[README](docs/README-fr.md) en français*
+
 ## Project information :
 
 ### View settings:
