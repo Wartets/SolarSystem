@@ -1,5 +1,6 @@
 # Système Solaire en 3D (Français)
 
+*[README](README.md) in english*
 
 ## Informations relatives au projet :
 
