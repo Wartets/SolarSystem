@@ -1,4 +1,4 @@
-# Solar system in 3D
+# Solar system in 3D (english)
 
 *[README](README-fr.md) en français*
 
