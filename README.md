@@ -1,15 +1,15 @@
 # SolarSystem
 
 
-##Informations relatives au projet :
+## Informations relatives au projet :
 
-###Réglages de vue :
+### Réglages de vue :
 
-"Pour se déplacer, garder appuyé avec la souris (clic de sélection) et déplacer celle-ci (dans la calculatrice graphique 3D, cela ne fonctionne pas très bien et peut causer de gros problèmes de performances).
+" Pour se déplacer, garder appuyé avec la souris (clic de sélection) et déplacer celle-ci (dans la calculatrice graphique 3D, cela ne fonctionne pas très bien et peut causer de gros problèmes de performances).
 Pour dé•zoomer, utiliser la roulette de défilement (dans la calculatrice graphique 3D, cela ne fonctionne pas très bien et peut causer de gros problèmes de performances)
 Pour centrer la vue sur un objet, sélection l'objet dans la liste déroulante, puis cliquer sur le bouton intitulé "centrer".
 Il est aussi possible de centrer en continu l'objet sélectionné, si la simulation temporelle est "irréelle" et que le booléen "Suivre l'astre" est coché (Il faut noter que le soleil n'étant pas en déplacement dans le système ne peut être suivi).
-Deux boutons peuvent permettre le dé•zoom rapide, celui avec une loupe contenant un symbole plus permet de zoomer et celui dont la loupe contient un symbole moins permet de dézoomer."
+Deux boutons peuvent permettre le dé•zoom rapide, celui avec une loupe contenant un symbole plus permet de zoomer et celui dont la loupe contient un symbole moins permet de dézoomer. "
 
 ###Réglages de temps : Il y a deux manières de définir le temps :
 
