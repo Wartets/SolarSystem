@@ -43,7 +43,7 @@ Sun :
 - Venus (Sun II)
 
 - Earth (Sun III) :
-  - Moon (Terre I)
+  - Moon (Earth I)
 
 - Mars (Sun IV) :
   - Phobos (Mars I)
@@ -100,8 +100,7 @@ Sun :
 
 ### Project under license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0).
 
-
-
+#  
 
 # Système Solaire en 3D (Fr)
 
