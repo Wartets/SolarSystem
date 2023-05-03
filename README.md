@@ -95,4 +95,4 @@ Soleil :
     - Horizons System, Jet Propulsion Laboratory – California Institute of Technology.
 
 
-Projet sous licence [CC-BY-SA]([url](https://creativecommons.org/licenses/by-sa/3.0)).
+Projet sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0).
