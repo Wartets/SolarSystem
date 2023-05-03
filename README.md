@@ -35,7 +35,7 @@ Project created with the classic version of GeoGebra 5. I advise to use this ver
 In case of a problem on the system, click on the reload icon at the top right of the screen with two arrows to reload the activity.
 It is not recommended to keep the display of orbits disabled when changing views or moving on the graph, as this may slow down the application/project.
 
-### Lists of the stars included in the project
+## Lists of the stars included in the project
 Sun :
 
 - Mercury (Sun I)
@@ -85,7 +85,7 @@ Sun :
    - Galatee (Neptune VI)
 
 
-### Sources
+## Sources
 
 >[Small-Body Database Lookup](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/), Jet Propulsion Laboratory – California Institute of Technology.
 >
@@ -140,7 +140,7 @@ Projet créé avec la version de GeoGebra 5 classique. Je conseille donc d'utili
 En cas de problème sur le système, cliquer sur l'icône de rechargement en haut à droite de l'écran avec deux flèches pour recharger l'activité.
 Il est déconseillé de garder l'affichage des orbites désactivées lors d'un changement de vue ou un déplacement sur le graphique, car ça risque de ralentir le fonctionnement de l'application/projet.
 
-### Listes des astres compris dans le projet
+## Listes des astres compris dans le projet
 Soleil :
 
 - Mercure (Soleil I)
@@ -190,7 +190,7 @@ Soleil :
    - Galatée (Neptune VI)
 
 
-### Sources
+## Sources
 
 >[Small-Body Database Lookup](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/), Jet Propulsion Laboratory – California Institute of Technology.
 >
