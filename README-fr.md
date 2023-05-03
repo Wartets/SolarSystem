@@ -1,6 +1,7 @@
 # Système Solaire en 3D (Français)
 
 *[README](README.md) in english*
+>Le projet est pour l'instant accessible en ligne via GeoGebra : [voir ici](https://www.geogebra.org/m/avyxgj3k)
 
 ## Informations relatives au projet :
 
