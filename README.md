@@ -1,4 +1,4 @@
-# SolarSystem
+# Système Solaire en 3D
 
 
 ## Informations relatives au projet :
