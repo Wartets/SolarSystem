@@ -1,4 +1,4 @@
-# Solar system in 3D (En)
+# Solar system in 3D
 
 ## Project information :
 
