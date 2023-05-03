@@ -99,4 +99,5 @@ Soleil :
 >[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/), Jet Propulsion Laboratory – California Institute of Technology.
 
 
-Projet sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0).
+
+### Projet sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0).
