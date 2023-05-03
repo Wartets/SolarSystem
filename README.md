@@ -95,8 +95,4 @@ Soleil :
     - Horizons System, Jet Propulsion Laboratory – California Institute of Technology.
 
 
->Je tiens à exprimer mes remerciements à Longjumping_Theme_45 pour les illustrations des astres qu'il a créées et qui m'a permis de les utiliser pour illustrer ce projet. (Je souhaite dans une version future, incruster directement les images sur les astres dans le système)
-Si vous rencontrez un bug, qu'il soit majeur ou mineur, commentez-le s'il vous plaît ; je reviens régulièrement sur mes projets pour les améliorer. : )
-
-
 Projet sous licence CC-BY-SA.
