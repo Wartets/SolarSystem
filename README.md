@@ -1,6 +1,7 @@
 # Solar system in 3D (english)
 
 *[README](README-fr.md) en français*
+The project is currently available online via GeoGebra: [see here](https://www.geogebra.org/m/avyxgj3k)
 
 ## Project information :
 
