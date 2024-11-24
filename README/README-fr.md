@@ -1,7 +1,8 @@
 # Système Solaire en 3D (Français)
 
 *[README](README.md) in english*
->Le projet est pour l'instant accessible en ligne via GeoGebra : [voir ici](https://www.geogebra.org/m/avyxgj3k)
+
+>Le projet est accessible en ligne via [GeoGebra](https://www.geogebra.org/m/avyxgj3k) et [Github](https://wartets.github.io/SolarSystem/)
 
 ## Informations relatives au projet :
 
